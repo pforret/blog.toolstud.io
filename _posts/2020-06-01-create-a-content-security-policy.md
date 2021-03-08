@@ -16,7 +16,7 @@ tags:
   - http
   - policy
   - script
-  - security
+  - network
   - tool
   - xss
 ---

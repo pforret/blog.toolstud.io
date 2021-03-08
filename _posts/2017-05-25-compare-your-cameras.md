@@ -1,17 +1,8 @@
 ---
-id: 34
-title: 'Megapixel: compare your camera&#8217;s resolution'
-date: 2017-05-25T11:42:41-04:00
+title: "Megapixel: compare your camera's resolution"
 author: Peter Forret
 layout: post
-guid: https://wp.toolstud.io/2017/05/25/megapixel-calculator-compare-your-cameras/
 permalink: /2017/05/25/compare-your-cameras/
-tumblr_toolstudio_permalink:
-  - https://toolstudio.tumblr.com/post/161054848023/megapixel-calculator-compare-your-cameras
-  - https://toolstudio.tumblr.com/post/161054848023/megapixel-calculator-compare-your-cameras
-tumblr_toolstudio_id:
-  - "161054848023"
-  - "161054848023"
 image: /wp-content/uploads/2017/05/tumblr_oqib75fjSo1un8l7mo1_1280.png
 categories:
   - Photo
@@ -32,11 +23,24 @@ tags:
   - sony
 format: gallery
 ---
-So you&#8217;re thinking about buying a new dSLR or system camera? You know that megapixels matter! But how much is enough? Let&#8217;s compare your camera&#8217;s resolution to some others!
+So you're thinking about buying a new dSLR or system camera? 
+You know that megapixels matter! But how much is enough? Let's compare your camera's resolution to some others!
 
-The Canon EOS 5D (Mark 1) was launched in 2005 and this started the era of the semi-pro dSLR cameras. The camera has a maximal resolution of `4368` x `2912` , which means [12.72 megapixels](https://toolstud.io/photo/megapixel.php?width=4368&height=2912&calculate=compressed&compare=photo&title=Canon+EOS+5D+MkI%3A+12.72+megapixel#compare). For today&#8217;s standards this is very low. Its most recent successor, the Canon 5Ds has a resolution of [`8688` x `5792`](https://toolstud.io/photo/megapixel.php?width=8688&height=5792&calculate=compressed&compare=photo&title=Canon+EOS+5Ds%3A+50.32+megapixel#compare) , this means [50 megapixels](https://toolstud.io/photo/megapixel.php?width=8688&height=5792&calculate=compressed&compare=photo&title=Canon+EOS+5Ds%3A+50.32+megapixel#compare), and this is about as high as you can get with a budget under 4000$. The most pixels you can buy in a commercial camera, should be the PhaseOne IQ4, that&#8217;s [150 megapixels](https://toolstud.io/photo/megapixel.php?width=14204&height=10652&calculate=compressed&compare=photo&title=PhaseOne+IQ4+150MP%3A+151.3+megapixel#compare). The price is equally impressive: about 50.000$.<figure class="wp-block-image size-large">
+![](/wp-content/uploads/2017/05/tumblr_oqib75fjSo1un8l7mo1_1280.png)
 
-<img loading="lazy" width="750" height="897" src="https://blog.toolstud.io/wp-content/uploads/2019/11/compare.png" alt="" class="wp-image-220" srcset="https://blog.toolstud.io/wp-content/uploads/2019/11/compare.png 750w, https://blog.toolstud.io/wp-content/uploads/2019/11/compare-418x500.png 418w" sizes="(max-width: 750px) 100vw, 750px" /> </figure> 
+The Canon EOS 5D (Mark 1) was launched in 2005 and this started the era of the semi-pro dSLR cameras. 
+The camera has a maximal resolution of `4368` x `2912` , which means 
+[12.72 megapixels](https://toolstud.io/photo/megapixel.php?width=4368&height=2912&calculate=compressed&compare=photo&title=Canon+EOS+5D+MkI%3A+12.72+megapixel#compare). 
+For today's standards this is very low. Its most recent successor, the Canon 5Ds has a resolution of 
+[`8688` x `5792`](https://toolstud.io/photo/megapixel.php?width=8688&height=5792&calculate=compressed&compare=photo&title=Canon+EOS+5Ds%3A+50.32+megapixel#compare) , 
+this means [50 megapixels](https://toolstud.io/photo/megapixel.php?width=8688&height=5792&calculate=compressed&compare=photo&title=Canon+EOS+5Ds%3A+50.32+megapixel#compare), 
+and this is about as high as you can get with a budget under 4000$. 
+The most pixels you can buy in a commercial camera, should be the PhaseOne IQ4, 
+that's [150 megapixels](https://toolstud.io/photo/megapixel.php?width=14204&height=10652&calculate=compressed&compare=photo&title=PhaseOne+IQ4+150MP%3A+151.3+megapixel#compare). 
+The price is equally impressive: about 50.000$.
+
+![](/wp-content/uploads/2019/11/compare.png)
+
 
 #### Megapixel Calculator:
 

@@ -11,4 +11,4 @@ toolstud.io is a website full of web-based tools for calculating and converting 
 
 Check it out on <https://toolstud.io/>
 
-History of this website (2006-now): <https://toolstud.io/about/history.php>
+[History of toolstud.io (2006-now)](/history)
