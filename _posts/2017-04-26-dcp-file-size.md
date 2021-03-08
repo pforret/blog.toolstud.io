@@ -1,0 +1,45 @@
+---
+id: 38
+title: Estimate your DCP file size (digital cinema)
+date: 2017-04-26T18:00:48-04:00
+author: Peter Forret
+layout: post
+guid: https://wp.toolstud.io/2017/04/26/dcp-size-calculator-toolstudio/
+permalink: /2017/04/26/dcp-file-size/
+tumblr_toolstudio_permalink:
+  - https://toolstudio.tumblr.com/post/160019333850/dcp-size-calculator-toolstudio
+  - https://toolstudio.tumblr.com/post/160019333850/dcp-size-calculator-toolstudio
+tumblr_toolstudio_id:
+  - "160019333850"
+  - "160019333850"
+image: /wp-content/uploads/2019/08/lrweqa573rc.jpg
+categories:
+  - Video
+tags:
+  - calculator
+  - cinema
+  - dci
+  - dcp
+  - digitalcinema
+  - filesize
+  - video
+format: link
+---
+I developed an tool to [estimate the file sizes of a DCP (Digital Cinema Package).](https://toolstud.io/video/dcpsize.php) This is probably a very geeky thing to do, but I need it often for my work (I work in Digital Cinema).<figure class="wp-block-image size-large is-resized">
+
+[<img loading="lazy" src="https://blog.toolstud.io/wp-content/uploads/2019/11/dcpsize.png" alt="estimate DCP size" class="wp-image-212" width="610" height="430" srcset="https://blog.toolstud.io/wp-content/uploads/2019/11/dcpsize.png 768w, https://blog.toolstud.io/wp-content/uploads/2019/11/dcpsize-500x353.png 500w" sizes="(max-width: 610px) 100vw, 610px" />](https://toolstud.io/video/dcpsize.php)<figcaption> DCP size estimation</figcaption></figure> 
+
+<div class="link_description">
+  <p>
+    DCP stands for <a href="https://en.wikipedia.org/wiki/Digital_Cinema_Initiatives">Digital Cinema Package</a>, the file/folder format for <strong>digital cinema projection.</strong> DCP specifies the way to combine MXF (<span class="ILfuVd"><span class="e24Kjd">Material eXchange Format</span></span>) media files for audio, video and subtitles into a folder structure and the XML files that describe what each file is, in what order and combination to play them correctly.
+  </p>
+</div>
+
+The tool currently supports: 
+
+  * pixel dimensions (resolution): 2K/4K
+  * framerate: 24,25,48,60 fps (HFR)
+  * stereoscopic: 2D/3D
+  * Channel layout: stereo, 5.1, 7.1
+
+If you are more interested in estimating file sizes for regular video files, check out <https://blog.toolstud.io/2017/04/27/video-filesize-calculator-toolstudio/>

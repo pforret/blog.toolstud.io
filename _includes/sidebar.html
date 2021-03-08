@@ -1,0 +1,23 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1 style="font-size: 2em"><a href="/">{{ site.title }}</a></h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.nav != false %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }} {{node.nav}}</a>
+          {% endif %}{% endif %}{% endif %}{% endfor %}
+    </nav>
+    <p style="font-size: 150%">
+      <a href="https://github.com/pforret" title="Github: pforret"><i class="fab fa-github-square"></i></a>
+      <a href="https://www.linkedin.com/in/peterforret/" title="Linkedin: peterforret"><i class="fab fa-linkedin"></i></a>
+      <a href="https://twitter.com/pforret" title="Twitter: pforret"><i class="fab fa-twitter-square"></i></a>
+    </p>
+    <p>&copy; 2014-{{ site.time | date: '%Y' }} by Peter Forret.</p>
+
+  </div>
+</div>
