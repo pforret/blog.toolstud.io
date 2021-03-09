@@ -18,7 +18,7 @@ tags:
 
 
 ![](/wp-content/uploads/2017/04/video_filesize.png)
-<img loading="lazy" class="alignnone size-full wp-image-95" src="http://blog.toolstud.io/wp-content/uploads/2017/04/video_filesize.png" alt="" width="724" height="693" srcset="https://blog.toolstud.io/wp-content/uploads/2017/04/video_filesize.png 724w, https://blog.toolstud.io/wp-content/uploads/2017/04/video_filesize-300x287.png 300w" sizes="(max-width: 724px) 100vw, 724px" /> 
+
 
 <div class="link_description">
   <p>
