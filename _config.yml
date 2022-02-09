@@ -3,7 +3,7 @@ name: Toolstud.io Blog
 title: Toolstud.io Blog
 description: tools, converters and calculators
 
-baseurl: "/"
+baseurl: ""
 twitter_username: pforret
 github_username:  pforret
 
@@ -20,6 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 exclude:
   - hyde
