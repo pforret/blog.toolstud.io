@@ -1,15 +1,28 @@
 ---
 layout: page
-title: categories
+title: Categories
 ---
-{% assign raw_items = site.posts | map: categories  | compact %}
-{% assign raw_items = site.posts | map: category | concat: raw_items | compact %}
-{% for items in raw_items %}
-    {% assign post_items = items | slugify | join: "|" | downcase | append: "|" %}
-    {% assign all_items  = all_items | append: post_items %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+{% assign ttags = post.categories | join:'|' | append:'|' %}
+{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
-{% assign unique_items = all_items | split: "|" | sort | uniq %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-{% for item in unique_items %}
-<li><a id="{{item}}" href="/category/{{item}}">{{ item }}</a></li>
+{% assign tags = "" %}
+{% for tag in rawtags %}
+{% if tag != "" %}
+{% if tags == "" %}
+{% assign tags = tag | split:'|' %}
+{% endif %}
+{% unless tags contains tag %}
+{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+{% endunless %}
+{% endif %}
 {% endfor %}
+
+<ul>
+{% for tag in tags %}
+<li><a href="/category/{{ tag | slugify }}">{{ tag | slugify }}</a></li>
+{% endfor %}
+</ul>
