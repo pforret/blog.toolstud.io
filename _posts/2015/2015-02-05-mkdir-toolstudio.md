@@ -1,17 +1,10 @@
 ---
 id: 54
-title: mkdir toolstud.io
+title: upgrade toolstud.io to PHP
 date: 2015-02-05T21:01:00-05:00
 author: Peter Forret
 layout: post
-guid: https://wp.toolstud.io/2015/02/05/mkdir-toolstudio/
 permalink: /2015/02/05/mkdir-toolstudio/
-tumblr_toolstudio_permalink:
-  - https://toolstudio.tumblr.com/post/110186577183/mkdir-toolstudio
-  - https://toolstudio.tumblr.com/post/110186577183/mkdir-toolstudio
-tumblr_toolstudio_id:
-  - "110186577183"
-  - "110186577183"
 categories:
   - Website
 tags:

@@ -1,3 +1,6 @@
 /_site/
 /.jekyll-cache/
 /.idea
+/vendor
+/.bundle
+/wp-content/uploads/*/.env
