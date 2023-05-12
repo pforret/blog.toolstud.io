@@ -2,7 +2,6 @@
 title: Calculate exponential growth trends
 author: Peter Forret
 layout: post
-permalink: /2020/04/15/calculate-exponential-growth-trends/
 image: /wp-content/uploads/2020/06/exponential.png
 categories:
   - Physics

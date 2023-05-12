@@ -4,8 +4,6 @@ title: Calculate audio delay for any tempo (BPM)
 date: 2020-05-15T11:47:00-04:00
 author: Peter Forret
 layout: post
-guid: https://blog.toolstud.io/?p=261
-permalink: /2020/05/15/calculate-audio-delay-for-any-tempo-bpm/
 image: /wp-content/uploads/2020/06/audio_delay.png
 categories:
   - Music

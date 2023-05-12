@@ -4,8 +4,6 @@ title: Big website layout upgrade
 date: 2020-06-05T16:06:30-04:00
 author: Peter Forret
 layout: post
-guid: https://blog.toolstud.io/?p=270
-permalink: /2020/06/05/big-website-layout-upgrade/
 image: /wp-content/uploads/2020/06/image-4.png
 categories:
   - Website

@@ -4,8 +4,6 @@ title: Create a Content-Security Policy
 date: 2020-06-01T11:23:23-04:00
 author: Peter Forret
 layout: post
-guid: https://blog.toolstud.io/?p=253
-permalink: /2020/06/01/create-a-content-security-policy/
 image: /wp-content/uploads/2020/06/csp-creator.png
 categories:
   - security

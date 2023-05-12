@@ -2,7 +2,6 @@
 title: Frequency to musical note converter
 author: Peter Forret
 layout: post
-permalink: /2020/11/01/frequency-to-musical-note-converter/
 image: /wp-content/uploads/2020/11/pexels-photo-210764.jpeg
 categories:
   - Music
