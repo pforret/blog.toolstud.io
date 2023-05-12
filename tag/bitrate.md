@@ -2,5 +2,5 @@
 layout: with_tag
 title: Bitrate
 keyword: bitrate
-count: 3
+count: 2
 ---

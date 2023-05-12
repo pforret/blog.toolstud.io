@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Image
-keyword: image
+title: Light
+keyword: light
 count: 1
 ---

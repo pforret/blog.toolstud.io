@@ -6,8 +6,10 @@ layout: post
 categories:
   - Video
 tags:
-  - bitrate
-  - image
+  - light
+  - candela
+  - screen
+  - projection
 ---
 
 To [calculate foot lamberts](https://toolstud.io/video/lambert.php) (fL) from lumens and screen size, you can use the following formula:

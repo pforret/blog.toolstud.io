@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Image
-keyword: image
+title: Candela
+keyword: candela
 count: 1
 ---
