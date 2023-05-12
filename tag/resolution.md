@@ -2,5 +2,5 @@
 layout: with_tag
 title: Resolution
 keyword: resolution
-count: 2
+count: 3
 ---

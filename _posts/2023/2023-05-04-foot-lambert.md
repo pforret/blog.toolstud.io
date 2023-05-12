@@ -4,13 +4,14 @@ author: Peter Forret
 image: /wp-content/uploads/2023/unsplash.projector.jpg
 layout: post
 categories:
-  - Video
+    - Video
 tags:
-  - light
-  - candela
-  - lumen
-  - screen
-  - projection
+    - light
+    - candela
+    - lumen
+    - screen
+    - projection
+    - cinema
 ---
 
 In the projection business, there is a unit for ‘how much light is coming from that screen, actually?’. This is called the foot-Lambert or fL.
