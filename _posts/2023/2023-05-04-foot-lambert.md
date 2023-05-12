@@ -8,9 +8,13 @@ categories:
 tags:
   - light
   - candela
+  - lumen
   - screen
   - projection
 ---
+
+In the projection business, there is a unit for ‘how much light is coming from that screen, actually?’. This is called the foot-Lambert or fL.
+
 
 To [calculate foot lamberts](https://toolstud.io/video/lambert.php) (fL) from lumens and screen size, you can use the following formula:
 
