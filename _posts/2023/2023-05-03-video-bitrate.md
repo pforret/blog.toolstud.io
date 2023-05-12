@@ -10,11 +10,12 @@ tags:
   - image
 ---
 
-![bitrate](/wp-content/uploads/2023/unsplash.dvd.jpg)
 
 To [estimate the video bitrate based on image resolution and framerate](https://toolstud.io/video/bitrate.php), you can use the following formula:
 
 > Video Bitrate (bits per second) = Image Resolution (pixels) × Framerate (frames per second) × Bit Depth (bits per pixel)
+
+![bitrate](/wp-content/uploads/2023/unsplash.dvd.jpg)
 
 The bit depth represents the number of bits used to represent each pixel in the video. It is typically 8 bits per pixel for standard video, but it can be higher for high-quality or professional content.
 
