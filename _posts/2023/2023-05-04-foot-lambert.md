@@ -19,15 +19,15 @@ In the projection business, there is a unit for ‘how much light is coming from
 
 To [calculate foot lamberts](https://toolstud.io/video/lambert.php) (fL) from lumens and screen size, you can use the following formula:
 
-> Foot Lamberts (fL) = Lumens / (Screen Area in square meters)
+> Foot Lamberts (fL) = Lumens / (Screen Area in square feet)
 
 ![](/wp-content/uploads/2023/unsplash.projector.jpg)
 
 Here's how you can calculate it correctly:
 
-Determine the screen area in square meters. Then, calculate the area by multiplying the width and height in square meters.
+Determine the screen area in square feet. 
 
-> Screen Area (square meters) = (Screen Width in meters) × (Screen Height in meters)
+> Screen Area (square feet) = (Screen Width in feet) × (Screen Height in feet)
 
 Calculate the foot lamberts using the formula mentioned above:
 
