@@ -1,10 +1,10 @@
 ---
-title: "Aspect Fit: how does an image fit on a screen?"
+title: "How does an image (aspect) fit on a screen?"
 author: Peter Forret
 image: /wp-content/uploads/2023/pillarbox.png
 layout: post
 categories:
-  - Video
+  - Photo
 tags:
     - screen
     - aspect
