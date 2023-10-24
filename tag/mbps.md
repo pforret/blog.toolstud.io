@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Gbps
-keyword: gbps
+title: Mbps
+keyword: mbps
 count: 1
 ---
