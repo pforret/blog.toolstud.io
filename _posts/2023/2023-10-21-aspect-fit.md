@@ -1,7 +1,7 @@
 ---
 title: "Aspect Fit: how does an image fit on a screen?"
 author: Peter Forret
-image: /wp-content/uploads/2023/unsplash.letterbox.jpg
+image: /wp-content/uploads/2023/pillarbox.png
 layout: post
 categories:
   - Video
@@ -19,9 +19,9 @@ When you have an image with a certain aspect ratio (width/height), and you want 
 
 I've created the [aspect fit calculator](https://toolstud.io/photo/aspect_fit.php) to calculate the rescaling and letterboxing/cropping dimensions for this process.
 
-For example, if you want to show a 3000x2000 pixel image (aspect ratio 1.5) on a standard HD 1920x1080 screen (aspect ratio 1.78) , those options look like this::
+For example, if you want to show a 3000x2000 pixel image (aspect ratio 1.5) on a standard HD 1920x1080 screen (aspect ratio 1.78) , those options look like this:
 
-* Pillar-box: rescale the image, so it fits completely inside the screen, and add black stripes on the sides of the image, so it fits the screen
+* **Pillar-box**: rescale the image, so it fits completely inside the screen, and add black stripes on the sides of the image, so it fits the screen
 
         Full image resolution = 3000 x 2000
         Is rescaled to = 1620 x 1080 (54%)
@@ -29,7 +29,7 @@ For example, if you want to show a 3000x2000 pixel image (aspect ratio 1.5) on a
 
 ![pillarbox.png](/wp-content/uploads/2023/pillarbox.png)
 
-* Crop: rescale the image, so it fills the screen completely, and then crop the sides of the image, so it fits the screen
+* **Crop**: rescale the image, so it fills the screen completely, and then crop the sides of the image, so it fits the screen
 
         Full image resolution = 3000 x 2000
         Is rescaled to = 1920 x 1280 (64%)
