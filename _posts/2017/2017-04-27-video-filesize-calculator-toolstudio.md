@@ -3,18 +3,17 @@ title: Video filesize calculator
 author: Peter Forret
 layout: post
 permalink: /2017/04/27/video-filesize-calculator-toolstudio/
+image: /wp-content/uploads/2017/04/video_filesize.png
 categories:
-  - Video
+  - video
 tags:
   - calculator
   - codec
   - compressed
   - filesize
-  - toolstud.io
-  - toolstudio
   - video
 ---
-[Video filesize calculator](https://toolstud.io/video/filesize.php)
+I've added some more common/exotic file size estimations to the [Video filesize calculator](https://toolstud.io/video/filesize.php).
 
 
 ![](/wp-content/uploads/2017/04/video_filesize.png)
