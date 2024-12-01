@@ -23,6 +23,6 @@ title: Categories
 
 <ul>
 {% for tag in tags %}
-<li><a href="/category/{{ tag | slugify }}">{{ tag | slugify }}</a></li>
+<li><a href="/category/{{ tag | slugify }}/">{{ tag | slugify }}</a></li>
 {% endfor %}
 </ul>
