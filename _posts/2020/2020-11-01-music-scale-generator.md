@@ -22,4 +22,4 @@ So using this, I have created a [musical scale generator](https://toolstud.io/mu
 
 Developing this took me two days because I really wanted to understand and &#8216;feel&#8217; the numbers.
 
-Also check the <a href="/2020/11/01/frequency-to-musical-note-converter/" data-type="post" data-id="321">frequency to musical note tool</a> I also made this weekend!
+Also check the [frequency to musical note tool](/music/2020/11/01/frequency-to-musical-note-converter/) I also made this weekend!
