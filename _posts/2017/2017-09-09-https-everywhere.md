@@ -1,10 +1,8 @@
 ---
-id: 26
 title: Check if your site is HTTPS ready
 date: 2017-09-09T17:03:57-04:00
 author: Peter Forret
 layout: post
-guid: https://wp.toolstud.io/2017/09/09/new-https-everywhere/
 permalink: /2017/09/09/https-everywhere/
 image: /wp-content/uploads/2017/09/tumblr_ow0velMjaD1un8l7mo1_1280.png
 categories:
