@@ -4,19 +4,21 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="ahrefs-site-verification" content="eb5bda1fd3ae9bcec2234bb93b11f1679f201e362d2547d74880a2f1b470908e">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <title>
-    {% if page.title == "Home" %}
+  <title>{% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+    {% endif %}</title>
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   <script src="/public/js/d8573aff57.js" ></script>
+  <meta property="og:image" content="/wp-content/uploads/2018/10/cropped-tumblr_ooz2jah6uK1un8l7mo1_1280.png">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url }}">
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
