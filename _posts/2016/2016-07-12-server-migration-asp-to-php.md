@@ -4,7 +4,7 @@ title: Server migration, ASP to PHP
 date: 2016-07-12T22:08:03-04:00
 author: Peter Forret
 layout: post
-permalink: https://blog.forret.com/2016/07/12/server-migration-asp-to-php/
+permalink: https://blog.toolstud.io/2016/07/12/server-migration-asp-to-php/
 categories:
   - Website
 tags:
