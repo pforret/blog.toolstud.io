@@ -1,6 +1,6 @@
 ---
 id: 50
-title: ToolStudio web tools (@toolstud_io) | Twitter
+title: "ToolStudio web tools (@toolstud_io) on Twitter/X"
 date: 2015-03-30T15:26:14-04:00
 author: Peter Forret
 layout: post
@@ -9,8 +9,7 @@ categories:
   - Website
 tags:
   - twitter
-format: link
 ---
-[ToolStudio web tools (@toolstud_io) | Twitter](https://twitter.com/toolstud_io)
+[toolstudio web tools (@toolstud_io) | Twitter](https://x.com/toolstud_io)
 
-So now Toolstud.io has a twitter account. I can hardly contain my excitement.
+So now toolstud.io has a Twitter/X account. I can hardly contain my excitement.
