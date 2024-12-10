@@ -10,6 +10,7 @@ categories:
 tags:
   - twitter
 ---
-[toolstudio web tools (@toolstud_io) | Twitter](https://x.com/toolstud_io)
+
+[toolstudio web tools (@toolstud_io)](https://x.com/toolstud_io)
 
 So now toolstud.io has a Twitter/X account. I can hardly contain my excitement.
