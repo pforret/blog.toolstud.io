@@ -14,3 +14,7 @@ tags:
 [toolstudio web tools (@toolstud_io)](https://x.com/toolstud_io)
 
 So now toolstud.io has a Twitter/X account. I can hardly contain my excitement.
+
+<div align="center"><a class="twitter-timeline" data-width="600" data-dnt="true"  data-tweet-limit="4" href="https://twitter.com/toolstud_io?ref_src=twsrc%5Etfw">Tweets by toolstud_io</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
